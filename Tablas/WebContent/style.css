@@ -1,0 +1,92 @@
+@charset "UTF-8";
+.ti{
+	font-family: 'Hanalei', cursive;
+	text-align: center;
+}
+.b1{
+	position: relative;
+	left: 25%;
+	width: 100px;
+	height: 100px;
+}
+.ti1{
+	color: blue;
+	background-color: orange;
+	width: 50em;
+	height: 1.5em;
+	font-weight: bold;
+}
+.er1{
+	width: 50em;
+	height: 1.5em;
+}
+.fg{
+	text-align: center;
+}
+.fondo{
+	background-color: white;
+	height: 2.5em;
+	position: relative;
+	top: 100px;
+	border: solid 2px black;
+}
+.b2{
+	position: relative;
+	left: 25%;
+	width: 100px;
+	height: 100px;
+	top: 150px;
+}
+.ti2{
+	color: blue;
+	background-color: orange;
+	width: 50em;
+	height: 1.5em;
+	font-weight: bold;
+	position: relative;
+	top: 180px;
+}
+.er2{
+	width: 50em;
+	height: 1.5em;
+}
+.fg2{
+	text-align: center;
+	border-top: dotted 4px red;
+	border-left: dotted 4px red;	
+}
+.fg3{
+	text-align: center;
+	border-top: dotted 4px red;
+	border-right: dotted 4px red;	
+}
+.fg4{
+	text-align: center;
+	border-right: dotted 4px red;	
+}
+.fg5{
+	text-align: center;
+	border-bottom: dotted 4px red;
+	border-right: dotted 4px red;	
+}
+.fg6{
+	text-align: center;
+	border-bottom: dotted 4px red;
+	border-left: dotted 4px red;	
+}
+.fg7{
+	text-align: center;
+	border-left: dotted 4px red;
+}
+.fondo2{
+	background-color: orange;
+	height: 3em;
+	position: relative;
+	top: 300px;
+	border: solid 5px red;
+}
+.texto{
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+}
